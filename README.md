@@ -5,7 +5,7 @@
 1. Clone the repository:
 
 ```bash
-    git clone git@github.com:byancode-github/preditc-vehicle-damage.git
+    git clone https://github.com/IvanMamaniPerez/detector-vehicle-damage.git 
 ```
 
 2. Install the required packages:

@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-# from Recognizer.LicensePlateDetector import LicensePlateDetector
 from ultralytics import YOLO
 
 # analyzer = LicensePlateDetector()
